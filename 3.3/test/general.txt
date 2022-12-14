@@ -1,0 +1,7 @@
+t2.txt:
+bbbb
+b
+t1.txt:
+aaaa
+aaaaaaa
+a
